@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Starter project name generator",
   "private": true,
+  "engines": {
+    "node": "16"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Thinkful-Ed/starter-name-generator"
